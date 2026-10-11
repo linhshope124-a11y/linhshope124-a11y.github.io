@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.linhshope.spxtracker",
+    "sha256_cert_fingerprints": [
+      "54:24:E4:38:A0:93:26:C4:86:86:A6:E7:2C:1C:E7:CC:E7:AB:75:D7:C9:2E:4B:73:68:C9:EC:0A:07:48:28:D0"
+    ]
+  }
+}]
